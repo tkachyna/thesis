@@ -1,0 +1,13 @@
+First Experiment -- LGP Improvement I
+
+* Without the Improvement
+
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.5, MUT_RATE: 0.1 :: 0, 0, 0, 0, 46, 40, 0, 42, 41, 39, 43, 43, 45, 47, 42, 37, 46, 45, 37, 18
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.5, MUT_RATE: 0.1 :: 0, 0, 0, 44, 44, 47, 46, 44, 49, 42, 30, 42, 35, 48, 38, 38, 41, 40, 25, 34 
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.5, MUT_RATE: 0.1 :: 0, 0, 0, 45, 33, 42, 44, 43, 37, 26, 31, 43, 42, 41, 50, 38, 41, 40, 26, 34
+
+* With the Improvement
+
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.5, MUT_RATE: 0.1 :: 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 37, 42, 0, 38, 31, 33, 1
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.5, MUT_RATE: 0.1 :: 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 31, 26, 33, 34, 17, 0, 29, 26, 27
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.5, MUT_RATE: 0.1 :: 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 43, 23, 30, 23, 41, 31, 26

@@ -1,0 +1,5 @@
+python=3.11.2 (3.9. and higher should be okay)
+matplotlib=3.7.1
+numpy=1.24.2
+imageio=2.26.0
+colored=1.4.4

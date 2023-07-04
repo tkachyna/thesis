@@ -1,0 +1,18 @@
+|-PROGN2
+   |-IF_FOOD_AHEAD
+      |-IF_FOOD_AHEAD
+         |-RIGHT
+         |-RIGHT
+      |-PROGN3
+         |-RIGHT
+         |-MOVE
+         |-RIGHT
+   |-IF_FOOD_AHEAD
+      |-IF_FOOD_AHEAD
+         |-PROGN2
+            |-MOVE
+            |-LEFT
+         |-MOVE
+      |-PROGN2
+         |-RIGHT
+         |-RIGHT

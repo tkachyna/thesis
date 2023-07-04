@@ -1,0 +1,76 @@
+Fifth Experiment -- Searching For Combination of Parameters - RANDOM TRAIL
+
+* Population
+
+Algorithm Settings = POP_SIZE: 50, XO_RATE: 0.5, MUT_RATE: 0.1 :: 28, 27, 31, 29, 31, 30, 30, 29, 28, 31
+Algorithm Settings = POP_SIZE: 50, XO_RATE: 0.5, MUT_RATE: 0.1 :: 31, 29, 29, 29, 28, 29, 31, 22, 22, 21
+Algorithm Settings = POP_SIZE: 50, XO_RATE: 0.5, MUT_RATE: 0.1 :: 28, 29, 30, 29, 30, 30, 28, 29, 29, 26
+
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.5, MUT_RATE: 0.1 :: 30, 30, 28, 29, 28, 32, 30, 30, 25, 27
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.5, MUT_RATE: 0.1 :: 25, 30, 32, 31, 28, 30, 29, 31, 24, 26 
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.5, MUT_RATE: 0.1 :: 29, 30, 30, 29, 27, 23, 29, 31, 27, 30
+
+Algorithm Settings = POP_SIZE: 200, XO_RATE: 0.5, MUT_RATE: 0.1 :: 31, 31, 30, 29, 30, 30, 26, 28, 27, 30 
+Algorithm Settings = POP_SIZE: 200, XO_RATE: 0.5, MUT_RATE: 0.1 :: 31, 29, 30, 27, 31, 31, 30, 27, 29, 30 
+Algorithm Settings = POP_SIZE: 200, XO_RATE: 0.5, MUT_RATE: 0.1 :: 30, 29, 30, 30, 31, 30, 30, 28, 29, 31
+ 
+Algorithm Settings = POP_SIZE: 500, XO_RATE: 0.5, MUT_RATE: 0.1 :: 32, 30, 31, 28, 31, 30, 30, 27, 29, 29 
+Algorithm Settings = POP_SIZE: 500, XO_RATE: 0.5, MUT_RATE: 0.1 :: 33, 28, 30, 30, 30, 30, 24, 26, 24, 30 
+Algorithm Settings = POP_SIZE: 500, XO_RATE: 0.5, MUT_RATE: 0.1 :: 29, 28, 32, 26, 27, 29, 32, 29, 27, 29
+
+* Crossover
+
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0, MUT_RATE: 0.1 :: 30, 30, 32, 32, 31, 28, 28, 28, 29, 28, 31, 25, 33, 25, 31
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0, MUT_RATE: 0.1 :: 31, 30, 22, 28, 29, 31, 30, 28, 27, 31, 23, 31, 29, 30, 22
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0, MUT_RATE: 0.1 :: 31, 29, 32, 32, 24, 30, 30, 31, 32, 31, 29, 27, 31, 29, 31
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0, MUT_RATE: 0.1 :: 31, 31, 31, 30, 34, 31, 31, 28, 26, 25, 29, 29, 27, 30, 28
+
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.2, MUT_RATE: 0.1 :: 29, 28, 31, 30, 30, 29, 30, 23, 28, 30, 23, 26, 30, 22, 29
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.2, MUT_RATE: 0.1 :: 29, 28, 32, 30, 31, 29, 29, 31, 28, 30, 29, 28, 32, 31, 29
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.2, MUT_RATE: 0.1 :: 29, 31, 30, 30, 31, 28, 29, 30, 30, 23, 29, 26, 29, 26, 26
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.2, MUT_RATE: 0.1 :: 29, 31, 29, 29, 29, 30, 30, 31, 30, 28, 28, 31, 30, 29, 24
+
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.5, MUT_RATE: 0.1 :: 30, 29, 32, 29, 29, 31, 30, 27, 29, 25, 25, 26, 24, 25, 26
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.5, MUT_RATE: 0.1 :: 30, 32, 28, 31, 28, 29, 29, 31, 27, 29, 29, 29, 28, 30, 29
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.5, MUT_RATE: 0.1 :: 31, 29, 30, 26, 30, 30, 31, 31, 29, 28, 30, 31, 30, 27, 25 
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.5, MUT_RATE: 0.1 :: 31, 29, 29, 26, 26, 29, 31, 29, 29, 29, 28, 29, 25, 20, 29
+
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.7, MUT_RATE: 0.1 :: 32, 31, 29, 31, 33, 29, 29, 29, 31, 29, 28, 24, 26, 28, 31
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.7, MUT_RATE: 0.1 :: 27, 31, 30, 30, 32, 30, 31, 26, 29, 30, 33, 26, 26, 25, 28
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.7, MUT_RATE: 0.1 :: 33, 28, 33, 30, 28, 28, 29, 29, 30, 29, 29, 27, 26, 27, 22 
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 0.7, MUT_RATE: 0.1 :: 31, 30, 32, 29, 30, 31, 24, 31, 26, 31, 24, 30, 29, 30, 32
+ 
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.1 :: 31, 28, 30, 28, 30, 28, 29, 31, 28, 26, 25, 29, 29, 26, 30
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.1 :: 27, 28, 31, 30, 25, 31, 27, 28, 29, 29, 32, 22, 30, 21, 23
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.1 :: 29, 31, 30, 26, 31, 30, 33, 29, 28, 28, 26, 27, 26, 30, 30
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.1 :: 31, 30, 29, 27, 31, 30, 28, 27, 29, 30, 31, 29, 27, 28, 27
+
+* Mutation
+
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.01 :: 26, 29, 28, 26, 20, 29, 26, 16, 21, 22, 31, 26, 28, 25, 22
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.01 :: 25, 27, 23, 26, 26, 32, 25, 28, 25, 31, 29, 26, 25, 24, 22
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.01 :: 33, 28, 30, 29, 26, 27, 28, 30, 24, 26, 25, 28, 28, 18, 30
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.01 :: 29, 28, 32, 33, 29, 27, 27, 25, 31, 25, 31, 28, 24, 28, 27
+ 
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.05 :: 28, 30, 33, 29, 28, 30, 29, 27, 22, 30, 24, 29, 25, 22, 27
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.05 :: 27, 26, 33, 30, 29, 30, 27, 25, 23, 24, 27, 29, 22, 27, 22
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.05 :: 30, 28, 29, 30, 24, 27, 29, 25, 29, 22, 28, 23, 31, 28, 24
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.05 :: 30, 29, 26, 29, 25, 27, 28, 24, 26, 26, 24, 29, 23, 22, 27
+
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.1 :: 32, 31, 30, 32, 31, 27, 29, 22, 27, 26, 26, 26, 26, 28, 28
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.1 :: 31, 31, 31, 31, 31, 30, 31, 31, 20, 29, 29, 30, 27, 28, 29
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.1 :: 32, 28, 31, 30, 32, 30, 27, 32, 27, 30, 27, 27, 30, 28, 28
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.1 :: 29, 29, 29, 31, 30, 30, 30, 29, 26, 26, 30, 34, 28, 26, 28
+
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.2 :: 32, 31, 31, 30, 29, 33, 30, 31, 30, 26, 32, 33, 32, 29, 31
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.2 :: 30, 31, 31, 30, 31, 31, 33, 32, 30, 28, 31, 28, 31, 26, 27
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.2 :: 30, 30, 29, 31, 29, 31, 29, 31, 32, 30, 28, 33, 29, 31, 29
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.2 :: 32, 30, 31, 33, 29, 33, 31, 28, 31, 32, 31, 30, 29, 29, 31
+ 
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.3 :: 31, 34, 31, 33, 30, 30, 31, 30, 29, 22, 33, 30, 31, 29, 30
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.3 :: 31, 29, 31, 30, 28, 31, 32, 31, 32, 27, 29, 32, 29, 32, 28
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.3 :: 31, 33, 29, 29, 31, 32, 29, 29, 27, 28, 23, 32, 26, 29, 32
+Algorithm Settings = POP_SIZE: 100, XO_RATE: 1, MUT_RATE: 0.3 :: 30, 31, 31, 31, 24, 29, 31, 29, 31, 29, 29, 27, 27, 28, 32
+
+
+
